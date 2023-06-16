@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+@media screen  and (min-width: 365px) and (max-width: 1046px){
+    #button{
+        display: inline-block;
+        margin: auto;
+        
+
+    }
+}
